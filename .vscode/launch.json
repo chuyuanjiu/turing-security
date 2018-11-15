@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdminApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "io.renren.AdminApplication",
+            "args": "",
+            "projectName": "renren-admin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ApiApplication",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "io.renren.ApiApplication",
+            "args": "",
+            "projectName": "renren-api"
+        }
+    ]
+}
